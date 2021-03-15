@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+.vscode
+.vs
+__pycache__
+env
+prayer_time.csv
